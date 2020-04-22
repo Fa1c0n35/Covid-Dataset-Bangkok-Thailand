@@ -1,0 +1,388 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Phranakhon",
+        "Age": "84",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "AnnounceDate": "3/23/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Khlong Toei",
+        "Age": "39",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "AnnounceDate": "3/23/2020",
+        "Sex": "Woman"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "26",
+        "Sex": "Woman",
+        "AnnounceDate": "3/23/2020"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "23",
+        "Sex": "Woman",
+        "AnnounceDate": "3/23/2020"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "50",
+        "Sex": "Woman",
+        "AnnounceDate": "3/23/2020"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "31",
+        "Sex": "Woman",
+        "AnnounceDate": "3/23/2020"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Din Daeng",
+        "Age": "27",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "AnnounceDate": "3/23/2020",
+        "Sex": "Woman"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Thung Khru",
+        "Age": "33",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "AnnounceDate": "3/23/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "38",
+        "AnnounceDate": "3/23/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "30",
+        "Sex": "Woman",
+        "AnnounceDate": "3/23/2020"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "54",
+        "AnnounceDate": "3/23/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Bang Kho Laem",
+        "Age": "24",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "AnnounceDate": "3/23/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Phyathai",
+        "Age": "57",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Krathum Baen District",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "56",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5487,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Khlong Toei",
+        "Age": "54",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5488,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Huai Khwang",
+        "Age": "30",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5489,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "24",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5490,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "23",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5491,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "66",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5492,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "34",
+        "Sex": "Woman",
+        "AnnounceDate": "3/24/2020"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5493,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "25",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5494,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Bang Khae",
+        "Age": "23",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Woman"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5495,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "23",
+        "Sex": "Woman",
+        "AnnounceDate": "3/24/2020"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5496,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "Age": "27",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Man"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5497,
+      "labels": [
+        "Covid19"
+      ],
+      "properties": {
+        "District": "Khlong Sam Wa",
+        "Age": "31",
+        "Nationality": "Thailand",
+        "Province": "Bangkok",
+        "AnnounceDate": "3/24/2020",
+        "Sex": "Woman"
+      }
+    }
+  }
+]
